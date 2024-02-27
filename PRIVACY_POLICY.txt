@@ -1,4 +1,7 @@
 The EU: Privacy Policy
 This application does not collect or store personal data
 
-If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
+Link to the privacy policy of third-party service providers used by the app
+
+Google Play Store: https://policies.google.com/privacy
+GoDot: https://godotengine.org/privacy-policy/
